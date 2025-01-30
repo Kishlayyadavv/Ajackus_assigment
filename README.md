@@ -49,6 +49,9 @@ cd frontend
 2. Install frontend dependencies
 ```bash
 npm install
+npm install @mui/material @emotion/react @emotion/styled
+npm install --save-dev @babel/core @babel/preset-env @babel/preset-react babel-loader
+
 ```
 
 3. Create a `.env` file in the frontend root directory
