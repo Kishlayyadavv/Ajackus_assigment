@@ -3,8 +3,7 @@
 - React.js
 - React Router Dom
 - Axios
-- Tailwind CSS
-
+- Material UI
 ### Backend
 - Node.js
 - Express.js
